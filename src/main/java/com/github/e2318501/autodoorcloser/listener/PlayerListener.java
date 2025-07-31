@@ -1,7 +1,7 @@
-package net.nutchi.autodoorcloser.listener;
+package com.github.e2318501.autodoorcloser.listener;
 
 import lombok.RequiredArgsConstructor;
-import net.nutchi.autodoorcloser.AutoDoorCloser;
+import com.github.e2318501.autodoorcloser.AutoDoorCloser;
 import org.bukkit.block.Block;
 import org.bukkit.block.data.type.Door;
 import org.bukkit.event.EventHandler;
